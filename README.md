@@ -25,13 +25,6 @@ This repository highlights a complete manual testing approach used in real-world
 ├── UI_Test_Cases.xlsx
 └── Regression_Test_Cases.xlsx
 
-📄 README.md
-
-markdown
-Copy
-Edit
-
----
 
 ## ✅ Test Plan
 
